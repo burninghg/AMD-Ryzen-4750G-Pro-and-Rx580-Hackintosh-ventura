@@ -1,0 +1,1 @@
+# AMD-Ryzen-4750G-Pro-and-Rx580-Hackintosh-ventura
