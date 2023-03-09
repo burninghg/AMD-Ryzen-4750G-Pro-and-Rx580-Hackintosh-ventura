@@ -17,3 +17,4 @@ Wifi: Broadcom BCM943602CS WiFi + Bluetooth （Bluetooth is unstable）
 Motherboard: B550M
 
 
+<img width="280" alt="image" src="https://user-images.githubusercontent.com/15249801/223897624-a2ff1be4-ce3f-40ed-98eb-716a5910f394.png">
