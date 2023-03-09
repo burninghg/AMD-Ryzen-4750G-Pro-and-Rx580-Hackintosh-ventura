@@ -12,7 +12,7 @@ RAM: 8GB x 4 NVME DDR4 2133Mhz
 
 Display card: Rx580
 
-Wifi: Broadcom BCM943602CS WiFi + Bluetooth
+Wifi: Broadcom BCM943602CS WiFi + Bluetooth （Bluetooth is unstable）
 
 Motherboard: B550M
 
