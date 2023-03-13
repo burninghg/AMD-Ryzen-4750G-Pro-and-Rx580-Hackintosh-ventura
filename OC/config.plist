@@ -1162,7 +1162,7 @@
                     <string>nvda_drv</string>
                     <string>prev-lang:kbd</string>
                 </array>
-                <key>8BE4DF61-93CA-11D2-AA0D-00E098032B8C</key>
+                <key>000000000000000000000000000000000000</key>
                 <array>
                     <string>Boot0080</string>
                     <string>Boot0081</string>
@@ -1185,7 +1185,7 @@
                 <key>AdviseFeatures</key>
                 <true/>
                 <key>MLB</key>
-                <string>C02821405J9JG36A8</string>
+                <string>000000000000000000000000</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -1201,7 +1201,7 @@
                 <key>SystemSerialNumber</key>
                 <string>C02WR1Y2HX87</string>
                 <key>SystemUUID</key>
-                <string>6895B190-B189-4806-8B71-6C4A2C2DE857</string>
+                <string>0000000000000000000</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
